@@ -104,7 +104,7 @@ This research demonstrates how mathematical models support data-driven decision-
 ```
 # Optimization of Service Systems Using Queuing Theory and Game Theory
 
-![Project Cover](assets/cover_page.png)
+![Project Cover](assets/cover-page.PNG)
 
 ## 📖 Overview
 
@@ -114,7 +114,7 @@ This research project explores how Queuing Theory and Game Theory can optimize s
 
 ## 🧮 Queuing System
 
-![Queue Model](assets/queue-model.png)
+![Queue Model](assets/Queue-model.png)
 
 ---
 
@@ -123,7 +123,7 @@ This research project explores how Queuing Theory and Game Theory can optimize s
 ![Applications](assets/applications.png)
 
 --- **Bank case study .png**
-[Bank case study](assets/Bank-case study.png)
+[Bank case study](assets/Bank-case-study.png)
 
 ## 📄 Research Report
 
