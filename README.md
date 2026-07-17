@@ -123,7 +123,7 @@ This research project explores how Queuing Theory and Game Theory can optimize s
 ![Applications](assets/applications.png)
 
 ---Bank-case study
-[Bank case study](assets/Bank-case%40study.PNG)
+[Bank case study](assets/Bank-case%20study.PNG)
 
 ## 📄 Research Report
 
