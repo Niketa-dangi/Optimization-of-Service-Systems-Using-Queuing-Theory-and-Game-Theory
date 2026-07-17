@@ -114,7 +114,7 @@ This research project explores how Queuing Theory and Game Theory can optimize s
 
 ## 🧮 Queuing System
 
-![Queue Model](assets/Queue&20model.png)
+![Queue Model](assets/Queue%20model.png)
 
 ---
 
