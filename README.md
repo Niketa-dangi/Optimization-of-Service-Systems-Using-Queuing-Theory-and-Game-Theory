@@ -96,19 +96,38 @@ This research demonstrates how mathematical models support data-driven decision-
 └── README.md
 └── assets
     ├── cover.png
-<img width="960" height="540" alt="Bank-case study" src="https://github.com/user-attachments/assets/22eaae6c-e80b-4619-8810-195d39d74e98" />
-
-     ├── queue-model.png
-<img width="1536" height="1024" alt="Queue model" src="https://github.com/user-attachments/assets/96b9c791-9083-41c0-9bf1-2fe3cc9f3d39" />
-
+    ├── queue-model.png
     └── banking-case-study.png
-<img width="960" height="540" alt="cover page" src="https://github.com/user-attachments/assets/35a1bf65-3319-414e-98c4-8197039da039" />
+        applications.png
 
-         applications.png
-<img width="1536" height="1024" alt="applications" src="https://github.com/user-attachments/assets/bd4a3d6b-2c0e-4fe0-bead-3d83a893a786" />
 
 ```
+# Optimization of Service Systems Using Queuing Theory and Game Theory
 
+![Project Cover](assets/cover_page.png)
+
+## 📖 Overview
+
+This research project explores how Queuing Theory and Game Theory can optimize service systems.
+
+---
+
+## 🧮 Queuing System
+
+![Queue Model](assets/queue-model.png)
+
+---
+
+## 🌍 Real-World Applications
+
+![Applications](assets/applications.png)
+
+--- **Bank case study .png**
+[Bank case study](assets/Bank-case study.png)
+
+## 📄 Research Report
+
+The complete research report is available in this repository.
 ---
 
 ## 🤖 AI Assistance
